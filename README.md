@@ -41,18 +41,18 @@ graph TD
         LLM_Summarize -.->|"[Add New Lore]"| LongTerm;
     end
 
-    %% Style Definitions
-    style UserInput fill:#D0F0D0,stroke:#333,stroke-width:2px
-    style Response fill:#D0F0D0,stroke:#333,stroke-width:2px
-    style RAG fill:#E8E8E8,stroke:#333,stroke-width:2px
-    style Prompt fill:#F0E8D0,stroke:#333,stroke-width:2px
-    style AddToHistory fill:#E8E8E8,stroke:#333,stroke-width:2px
-    style Summarizer fill:#E8E8E8,stroke:#333,stroke-width:2px
-    style PersonaKB fill:#D0E0F0,stroke:#333,stroke-width:2px
-    style LongTerm fill:#D0E0F0,stroke:#333,stroke-width:2px
-    style ShortTerm fill:#D0E0F0,stroke:#333,stroke-width:2px
-    style LLM_Main fill:#F0D0D0,stroke:#333,stroke-width:4px,stroke-dasharray: 5 5
-    style LLM_Summarize fill:#F0D0D0,stroke:#333,stroke-width:4px,stroke-dasharray: 5 5
+    %% Style Definitions - Dark Mode Optimized
+    style UserInput fill:#4CAF50,stroke:#fff,stroke-width:2px,color:#fff
+    style Response fill:#4CAF50,stroke:#fff,stroke-width:2px,color:#fff
+    style RAG fill:#607D8B,stroke:#fff,stroke-width:2px,color:#fff
+    style Prompt fill:#FF9800,stroke:#fff,stroke-width:2px,color:#fff
+    style AddToHistory fill:#607D8B,stroke:#fff,stroke-width:2px,color:#fff
+    style Summarizer fill:#607D8B,stroke:#fff,stroke-width:2px,color:#fff
+    style PersonaKB fill:#2196F3,stroke:#fff,stroke-width:2px,color:#fff
+    style LongTerm fill:#2196F3,stroke:#fff,stroke-width:2px,color:#fff
+    style ShortTerm fill:#2196F3,stroke:#fff,stroke-width:2px,color:#fff
+    style LLM_Main fill:#F44336,stroke:#fff,stroke-width:4px,stroke-dasharray:5 5,color:#fff
+    style LLM_Summarize fill:#F44336,stroke:#fff,stroke-width:4px,stroke-dasharray:5 5,color:#fff
 ```
 
 ## **Setup and Installation**
