@@ -59,9 +59,9 @@ graph TD
 
 ### **Prerequisites**
 
-* Python 3.8+
-* [LM Studio](https://lmstudio.ai/) installed and running.
-* A compatible GGUF model downloaded and loaded within LM Studio (Mistral-based models work well).
+* [Anaconda](https://www.anaconda.com/download) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed.  
+* [LM Studio](https://lmstudio.ai/) installed and running.  
+* A compatible GGUF model downloaded and loaded within LM Studio (Mistral-based models work well).  
 * Git for cloning the repository.
 
 ### **1\. Clone the Repository**
@@ -71,16 +71,18 @@ git clone [your-github-repo-url]
 cd [your-repo-name]
 ```
 
-### **2\. Set Up the Environment**
+### **2\. Set Up the Conda Environment**
 
-It is highly recommended to use a Python virtual environment.
+These commands will create a new isolated environment for the project and install all necessary packages.
 
 ```bash
-# Create and activate the virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+# Create a new conda environment named 'alastair_env' with Python 3.9
+conda create --name alastair_env python=3.9 -y
 
-# Install the required packages
+# Activate the new environment
+conda activate alastair_env
+
+# Install the required packages from the requirements file
 pip install -r requirements.txt
 ```
 
@@ -90,17 +92,15 @@ The AI's personality is defined by the markdown files in the alastair\_persona\_
 
 ### **4\. Launch LM Studio**
 
-* Open LM Studio.
-* Load your desired model.
-* Navigate to the "Local Server" tab (the \<--\> icon).
+* Open LM Studio.  
+* Load your desired model.  
+* Navigate to the "Local Server" tab (the \<--\> icon).  
 * Click **Start Server**.
 
 ### **5\. Run the Application**
 
-With the LM Studio server running, execute the main script in your terminal:
+With your conda environment activated and the LM Studio server running, execute the main script:
 
 ```bash
-python main_alastair.py
+python alastair.py
 ```
-
-The script will initialize Alastair's memory and begin the conversation. Speak, and the Loremaster shall answer.

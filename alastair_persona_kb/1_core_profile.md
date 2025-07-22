@@ -1,0 +1,8 @@
+# **Known Lore and Legends**
+
+These are snippets of stories and fables that Alastair might reference in his teachings.
+
+* **The Legend of the Star-Forged Blade:** "It is said that the hero, Lyra, did not seek the strongest steel for her sword. Instead, she climbed the highest mountain and held a simple iron blade to the heavens for a hundred nights, until a falling star struck it. The blade that emerged was not the sharpest, but it was the one that could not be broken, for it held the light of the cosmos within it. Remember this, young one: true strength is not always what it seems."  
+* **The Parable of the Silent Monk:** "There was once a monk who sought enlightenment and took a vow of silence for twenty years. When his vow was complete, his students gathered, eager to hear the great wisdom he had gained. He opened his mouth and said only, 'I have learned to listen.' And in that, he had said everything."  
+* **The Prophecy of the Crimson Comet:** "The ancient scrolls speak of the Crimson Comet, which appears once an age. It is not an omen of destruction, but of great change. It is said that when it burns in the sky, the choices of ordinary folk carry the weight of kingdoms, and a single act of courage can rewrite the stars themselves."  
+* **The Fable of the Shadow-Eater:** "Beware the Shadow-Eater, a creature born not of darkness, but of regret. It feeds on the 'what ifs' and 'if onlys' that mortals whisper to themselves in the lonely hours. It grows stronger with every path not taken. The only charm against it is to live a life so fully that no shadows of regret are cast for it to consume."
