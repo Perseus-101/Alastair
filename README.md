@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-Alastair is a technical demonstration of a stateful conversational AI companion built with a sophisticated hybrid memory system. This project showcases how to create a rich AI persona that can remember details across long conversations and sessions, leading to more meaningful, context-aware, and immersive interactions.
+Alastair is a technical demonstration of a stateful conversational AI companion built with a hybrid memory system. This project showcases how to create a rich AI persona that can remember details across long conversations and sessions, leading to more meaningful, context-aware, and immersive interactions.
 
 The AI persona is **Alastair, the Loremaster**, an ancient and wise wizard who guides the user, his apprentice, with riddles, parables, and forgotten lore.
 
